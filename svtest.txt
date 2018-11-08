@@ -1,0 +1,408 @@
+
+Vetenskap
+
+Personifiering av vetenskap, utanför Boston Public Library.
+Vetenskap är produktionen av ny kunskap med systematiska metoder. Vetenskapliga metoder innefattar
+
+empiri (experiment, observation, mätning och datainsamling i syfte att pröva hypoteser, teorier, modeller och lagar) och
+deduktion (formulering av nya hypoteser och prediktioner genom logisk slutledning, matematisk härledning av samband och teoretiskt modellbygge).
+Vetenskap är sådan forskning (akademisk forskning, industriell forskning, privatforskning, med mera) som har publicerats i vetenskapliga publikationer. Vanliga publikationskriterier innefattar då att arbetet granskats av oberoende referenter och/eller av en opponent vid annan akademisk institution. Granskaren skall kontrollera bedömningskriterier som att argumentationen är saklig, att resultat och slutsatser har ett nyhetsvärde, att publikationen refererar och bygger vidare på annan forskning inom området, samt att systematiska (vetenskapliga) metoder har använts och redovisats på ett sätt så att andra kan reproducera resultaten och bedöma slutsatsernas tillämplighet och tillförlitlighet.
+
+Det engelska ordet science har traditionellt avsett endast naturvetenskap (inklusive medicin och teknikvetenskap), medan det svenska vetenskapsbegreppet (och idag ofta även det engelska begreppet) även innefattar samhällsvetenskap och ibland även formella vetenskaper. Filosofi, humaniora och formella vetenskaper såsom matematik bygger på deduktion men inte alltid empiri, och räknas således inte till naturvetenskaper.
+
+Bland vetenskap tillämpas metodologisk naturalism, det vill säga man studerar endast naturens lagbundenhet och formulerar inte hypoteser och förklaringar som innefattar övernaturliga fenomen. Enligt vissa vetenskapsteoretiker hamnar därmed övernaturliga fenomens existens utanför naturvetenskapens räckvidd.[1][2] Metodologisk naturalism tillämpas inte fullt ut inom parapsykologi men vanligen inom religionsvetenskap. Vetenskap beskrivs som evidensbaserad kunskap, och ställs ibland i motsatsställning till beprövad erfarenhet, praktikerkunskap och konst, samt till trosuppfattningar och pseudovetenskap.
+
+Inom bland annat naturvetenskap betonas att vetenskap måste vara objektiv och ickepolitisk samt ge generaliserbara predikteringar och kartlägga strukturer, och större tilltro sätts till empiriska data än mänsklig tolkning. Däremot anser många inom tolkande samhällsvetenskap att sådan kunskap inte är uppnåelig och eftersträvansvärd, utan anammar istället vetenskapsfilosofier som konstruktivism och poststrukturalism. Kritisk realism försöker förena de två synsätten, och föreskriver försiktigare slutsatser vid studiet av samhällen än vid studiet av naturen.
+
+En vetenskap kan även åsyfta en vetenskaplig teori, en lära eller ett akademiskt ämne.
+
+Innehåll
+1	Historik
+2	Etymologi
+3	Vetenskapliga områden och definition
+3.1	Relation mellan discipliner
+3.2	Naturvetenskap
+3.3	Samhällsvetenskap och humaniora
+3.4	Formella vetenskaper
+3.4.1	Matematik
+3.5	Ingenjörsvetenskap
+4	Vetenskapsteori
+4.1	Grundforskning och tillämpad forskning
+4.2	Experimentation och hypoteser
+4.3	Säkerhet och vetenskap
+5	Den vetenskapliga gemenskapen
+5.1	Områden
+5.2	Institutioner
+5.3	Litteratur
+5.3.1	Vetenskaplig publicering
+5.3.2	Populärvetenskap
+5.4	Kvinnor och vetenskap
+6	Pseudovetenskap och skräpvetenskap
+7	Kritik
+7.1	Filosofisk kritik
+7.2	Religiös kritik
+8	Se även
+9	Referenser
+10	Vidare läsning
+11	Externa länkar
+Historik
+
+Aristoteles anses vara en av de första vetenskapsmännen.
+Huvudartikel: Vetenskapshistoria
+Födelsen av modern vetenskap räknas till 1500- och 1600-talen i Europa. Vad som kan klassas som vetenskapliga experiment och observationer har emellertid gjorts så länge som mänsklig civilisation har funnits. Människan har alltid använt sin medfödda förmåga att se mönster och orsakssamband bakom naturliga fenomen och att formulera dessa som logiska principer och förutsägelser. I förhistoriska tider fördes råd och kunskap vidare från generation till generation genom muntlig tradition, och arkeologiska fynd visar att det förekom utveckling av astronomisk kunskap före skriften.[3][4]
+
+Utvecklandet av skrift tillät att kunskap sparades och meddelades mellan generationer troget sitt original, medan den muntliga traditionen kunde leda till misstag i minnet och återberättandet, och det gjorde att vetenskapen kunde utvecklas storartat i takt med den mänskliga civilisationen. Bland andra egyptierna och mesopotamerna revolutionerade och nedtecknade flera vetenskapliga områden som astronomi, medicin och biologi.[5]
+
+Empirisk undersökning av den naturliga världen har beskrivits i skrift i Grekland under antiken.[6] Många grundprinciper för ett vetenskapligt arbetssätt fastlades redan av Aristoteles, och senare i Rom av exempelvis Plinius den äldre, filosofer som förstod att naturen var lagbunden.
+
+Det moderna västeuropeiska vetenskapsbegreppet utvecklades under 1600-talet med Galileo Galilei, som istället för att främst sätta sin tro till auktoriteter själv utförde experiment. Detta skiljde honom från många tidigare vetenskapsmän, som Aristoteles. Galileis metod ledde sedan till hypotetisk deduktion, det vill säga att man tar fram hypoteser och teorier och utför experiment för att stödja eller motbevisa dem. Newtons Principia från 1687 räknas ofta som en viktig milstolpe i det vetenskapliga tänkandet, då den med endast ett fåtal naturlagar förklarade ett flertal fenomen och lade grunden till reduktionismen.[7]
+
+Sedan antiken hade naturvetenskap och samhällsvetenskap varit tätt sammankopplade, och det gjordes ingen större skillnad på en person som studerade matematik och en som studerade historia, poesi eller politik. Naturvetenskapen kopplades länge tätt till filosofi, och fram till modern tid sågs de två ofta som samma sak. Under upplysningstiden började "naturfilosofer" som Newton att skiljas från filosofer i att de arbetade efter vad som senare skulle kallas den vetenskapliga metoden.[8] På 1600-talet hade ord för vetenskap börjat separeras från begreppet naturfilosofi.
+
+
+Filosofen Thomas Hobbes studerade politik med ett vetenskapligt tillvägagångssätt, och var en av de första samhällsvetenskapsmännen.
+Ur naturfilosoferna började det uppkomma sådana som inte studerade naturen, men som tillämpade vetenskapliga metoder vid studiet av samhällen. Detta var början på den moderna samhällsvetenskapen, och idén var att rationella lagar även kan beskriva mänskligt beteende.[9] och på det sättet förstå och förbättra ämnen som politik, ekonomi, psykologi och religion.[9]
+
+Under 1800-talet uppkom uttrycket vetenskaplig metod för att beskriva metoden använd under vetenskapliga observationer och experiment, och termen spreds snabbt efter 1870-talet, trots att det inte fanns en definitiv förklaring av vad begreppet innebar.[10] Det engelska ordet för vetenskapsman, "scientist", användes första gången 1833 av William Whewell,[11] och användandet av det plurala "scientists" för en särskild grupp människor som brukade vetenskap började att användas under andra halvan av 1800-talet.[10]
+
+I början av 1900-talet var den moderna synen på vetenskap, som ett sökande efter kunskap med en speciell metod och av en speciell grupp, i stort sett definierad, och termen hade börjat användas för att ge legitimitet åt varierande fält såsom medicinsk vetenskap.[10] Under 1900-talet började även banden mellan vetenskap och teknik att växa mycket starka, och som Martin Rees förklarar, har framgångar i vetenskaplig förståelse och teknik varit synergistiska och avgörande för varandra. Tiden sedan den industriella revolutionen har möjliggjort en ökande takt i vetenskapens framgång, och under 1900-talet utvecklades många revolutionerande idéer och teorier som Albert Einsteins relativitetsteori, kvantmekanik, strängteori, utomjordisk astronomi och informationsteknologi. Den ökade styrkan i teknologin möjliggör en eskalerande ökning, vilken enligt vissa kan resultera i en teknologisk singularitet.[12][13]
+
+Etymologi
+Ordet vetenskap stammar från lågtyskans wetenskap, som initialt betydde kännedom, kunskap, men på 1700-talet fick sin moderna betydelse.[14] Det engelska ordet science, samt många andra språks ord för "vetenskap", kommer från latinets scientia, ett substantiv format ur verbet scire, "att veta".[15] Ordet science började under 1700-talet att motsvara dagens naturvetenskap, men under 1900-talet vidgades begreppet och nya discipliner såsom samhällsvetenskap växte fram som också tillämpar den vetenskapliga metoden. Därmed har skillnaden mellan det engelska ordet science och svenskans vetenskap alltmer kommit att suddas ut. Humaniora ingår i det svenska ordet "vetenskap", i det tyska "wissenschaft" och i det franska "science", men inte i det engelska "science".[15] Den del av vetenskap som vi på svenska kallar humaniora brukar på engelska hamna under begreppet "arts". Numera använder man på engelska begreppet natural science då man vill markera att man menar just naturvetenskap till skillnad från till exempel samhällsvetenskap om det inte framgår av sammanhanget.
+
+Vetenskapliga områden och definition
+
+Studiet av yttre rymden kallas astronomi, och är en del av fysiken, som i sig är en del av naturvetenskapen.
+Vetenskapsbegreppet, och främst det engelska begreppet "science", används ofta synonymt med "naturvetenskap",[16] men andra områden som tillämpar den vetenskapliga metoden, och blir publicerade i vetenskapliga tidskrifter, ingår också i begreppet vetenskap.[källa behövs]
+
+Sedan medeltiden har man delat in den akademiska forskningen i fyra vetenskapsområden (huvudområden eller fakulteter): teologisk (idag på vissa håll ersatt av icke-konfessionell religionsvetenskap), juridisk fakultet, medicinsk och filosofisk fakultet, som under 1900-talet började delas upp i en humanistisk, en matematisk-naturvetenskaplig och (senare) en samhällsvetenskaplig fakultet. Idag grupperar Högskoleverket den akademiska forskningen i följande fyra vetenskapsområden: naturvetenskapligt (som studerar naturen och dess lagbundenhet, men även innefattar matematik och formella vetenskaper), tekniskt (som studerar principer för mänskliga artefakter), medicinskt (som i vissa andra sammanhang betraktas som del av naturvetenskapen), och humanistiskt-samhällsvetenskapligt.[17] Det senare området kan i sin tur delas upp i humaniora, där människan som kulturell varelse studeras, och samhällsvetenskap inklusive beteendevetenskaperna, där samhället och mänskligt samspel studeras. Ett lärosäte som har ett vetenskapsområde (en fakultet) har rätt att ge forskarexamina inom området. I Sverige definieras ett universitet som ett lärosäte som har minst två vetenskapsområden.
+
+Relation mellan discipliner
+Reduktionism är ett vanligt synsätt inom vetenskap, i synnerhet naturvetenskap, på relationen mellan olika vetenskapliga grenar. Principer och lagar inom ett vetenskapligt ämne anses enbart vara en konsekvens av principer inom ämnen som betraktas som mer grundläggande, samt av ämnets förutsättningar, definitioner och initialvärden. Inga holistiska eller mystiska principer tillkommer i egentlig mening på högre nivå. Emellertid möjliggör emergens att ett system som är mycket enkelt på mikroskopisk nivå kan uppvisa stor komplexitet när det studeras på makroskopisk nivå. Exempelvis anses kemins komplexa lagar enbart vara en konsekvens av fysikens relativt enkla lagar samt av de förutsättningar (temperaturer, tryck, osv) som krävs för att atomer ska kunna existera. Biologin anses på samma sätt kunna härledas ur kemin samt ur livets utvecklingshistoria på jorden, psykologin ur biologin samt ur människans biologiska och kulturella utveckling, sociologin ur psykologin, och så vidare. Naturvetare försöker formulera enkla lagar, samband och modeller med stor förklaringskraft, och har allt sedan antikens atomteori letat efter naturens minsta odelbara beståndsdelar. Synsättet innebär att all vetenskap skulle kunna reduceras till några grundläggande naturlagar inom fysik – en teori om allt som väntar på att bli upptäckt – samt till matematiska och logiska principer. Emellertid har forskare ännu inte lyckas formulera en konsistent teori som förenar grundläggande fysikaliska principer, och ingen har fullständigt lyckats härleda kemin ur fysiken, biologin ur kemin, etcetera. I praktiken kanske mänskligheten aldrig kan lyckas härleda sambanden på grund av att det är för komplext för att kunna observeras och förstås av det begränsade mänskliga intellektet.[18]
+
+
+Studiet av utbildning kallas pedagogik, och är del av samhällsvetenskapen.
+Naturvetenskap
+Fysikern Richard Feynman beskrev vetenskap för sina elever på följande sätt: "Provet för all kunskap är experiment. Experiment är den enda domaren av vetenskaplig sanning. Men vad är källan av kunskap? Varifrån kommer lagarna som ska bli prövade? Experiment, själva, hjälper till att producera dessa lagar, som om de ger oss ledtrådar. Men det behövs även fantasi för att skapa dessa ledtrådar från den stora generaliseringen - att gissa de underbara, enkla, men mycket underliga mönstren bakom allt, och att sedan experimentera för att se igen om vi gjorde rätt gissning." Feynman observerade även att "det finns en växande gräns med ignorans... saker måste läras endast för att glömmas bort igen, eller, mer sannolikt, för att bli rättade."[19]
+
+Samhällsvetenskap och humaniora
+Under upplysningstiden började den samhällsvetenskapliga delen att växa fram ur vetenskapen, och den skiljer sig idag från naturvetenskapen i att den studerar människan och dess samhälle, medan naturvetenskapen studerar den naturliga världen i allmänhet.[20] Exempel på naturvetenskapliga områden är fysik, kemi, geologi och biologi, medan exempel på samhällsvetenskapliga områden är psykologi, ekonomi, sociologi och antropologi. Idag ses bägge två som vetenskapliga områden.
+
+Ibland räknas humaniora som ett tredje område, men i flera länder klassas den under samhällsvetenskapen. Gränsdragningen mellan humaniora och samhällsvetenskap är dock många gånger diffus, och en inte oansenlig andel vetenskapsteoretiker menar att humaniora bör klassas som en underavdelning till samhällsvetenskapen. Den tyske filosofen Jürgen Habermas menar dock att de tre disciplinerna skall hållas åtskilda då de representerar tre olika mänskliga strävanden; där naturvetenskapen söker behärska naturen, humanioran söker förståelse för människan, och (den kritiska) samhällsvetenskapen söker en frigörelse från strukturer.
+
+I synnerhet inom samhällsvetenskap används ofta kvalitativa metoder, exempelvis fallstudier och djupintervjuer, för att analysera skeenden och förstå orsakssamband. För att slutsatser ska kunna generaliseras och hypoteser prövas kompletteras de kvalitativa studierna ofta med kvantitativa studier, exempelvis enkätundersökningar och andra mätningar.
+
+Formella vetenskaper
+Matematik, statistik och logik är inte naturvetenskaper i egentlig mening, då dessas teorier inte generellt kan verifieras empiriskt, utan istället är konstruerade med axiom och deduktion (logiska resonemang). Emellertid utnyttjas de som hjälpvetenskaper, det vill säga som verktyg av vetenskaper, och detta gäller i synnerhet statistiken. Matematik och statistik är fundamentet för sådan vetenskap som använder kvantitativa metoder – det är till exempel lätt att se att utan matematik skulle det inte finnas någon fysik – men matematiken ligger även till stor del till grund för logik, som används som verktyg vid all vetenskap. Matematik och logik klassas ibland som formell vetenskaper eftersom det där finns ett forskningsarbete. En skillnad i bevisföringen mellan matematik och de empiriska vetenskaperna är att man kan få helt säkra bevis utan någon osäkerhet. I de empiriska vetenskaperna finns det så gott som alltid en osäkerhet i mätvärden vilket gör att man inte kan prata om absoluta bevis, utan istället om olika hög grad av korrelation, validitet och reliabilitet. Dessa empiriska "bevis" som aldrig är helt säkra kallas för evidens, medan endast matematiska bevis kallas "bevis". På engelska är denna skillnad mer uppenbar, med orden "evidence" respektive "proof".[21]
+
+Matematik
+Huvudartikel: Matematik
+
+En lektion i linjär algebra vid ett finskt universitet. Elever av vetenskap och teknik lär sig att hantera matematiken som ett verktyg.
+Matematik är livsviktigt för alla vetenskapliga områden. En viktig roll matematik har i vetenskap är rollen den spelar i att uttrycka vetenskapliga modeller. Observerandet och insamlandet av mätningar, liksom att skapa hypoteser och förutse framtida resultat, kräver ofta stor användning av matematik. Aritmetik, algebra, geometri, trigonometri, matematisk analys och sannolikhetslära är exempelvis alla väsentliga för studier inom fysiken.[21] I princip varje gren av matematik har någon funktion inom vetenskapen, inklusive "rena" områden som talteori och topologi.
+
+Statistiska metoder, för att sammanfatta och analysera data har alla en gång verifierats matematiskt. Statistiken används av samhället, till exempel massmedier, för att åskådliggöra fenomen, men inom vetenskapen har statistiken en annan roll. Den tillåter forskare att förstå nivån av säkerhet och variationen i resultaten från deras experiment. Statistisk analys har en fundamental roll i många områden av både naturvetenskapen och samhällsvetenskapen.
+
+Beräkningsvetenskap använder datorkraft för att simulera situationer från den fysiska världen, som är för svåra att beräkna för hand, och tillåter en bättre förståelse av vetenskapliga problem än den som enbart matematik kan medföra. Om simuleringsmodellerna är empiriskt verifierade kan detta ses som ett mellanting mellan experimentell metodik och teoretisk forskning. I vissa vetenskapliga traditioner krävs att simuleringsresultat verifieras experimentellt. Enligt Society for Industrial and Applied Mathematics är beräkningsvetenskap numera lika viktigt som teori eller experiment när det kommer till att utveckla vetenskaplig kunskap.[22]
+
+Huruvida matematik i sig själv ska klassas som vetenskap har debatterats. Somliga ser matematiker som vetenskapsmän, och klassar fysiska experiment som mindre viktiga alternativt ser matematiska bevis som likvärdiga dessa experiment. Andra ser inte matematik som en vetenskap, eftersom den inte kräver att experimentellt testa sina teorier och hypoteser. Matematiska teorem och formler har en grund i logiska härledningar som förutsätter axiomatiska system, istället för att kombinera empirisk observation och logiska slutsatser som annars kännetecknar den vetenskapliga metoden.[16][21]
+
+Generellt klassas matematik som en formalvetenskap, medan naturvetenskapen och samhällsvetenskapen klassas som empirisk vetenskap.[23]
+
+Ingenjörsvetenskap
+Tillämpad forskning, exempelvis ingenjörsvetenskap, liknar men skall inte sammanblandas med praktikerkunskap, exempelvis ingenjörskonst. En viktig skillnad är att vetenskap skall ge upphov till generaliserbar kunskap, det vill säga slutsatser som inte enbart är giltiga för ett specifikt studieobjekt, exempelvis en kommersiell produkt, och inte enbart är av tillfälligt intresse för studiens uppdragsgivare, utan förväntas vara av intresse för fler forskare på några års sikt. Ingenjörskonst har ofta andra mål än att ge upphov till kunskap, exempelvis att utveckla en kommersiell produkt, genom att applicera vetenskaplig kunskap på konkreta problem. Inom praktikerkunskap arbetar man i högre grad med fallstudier och mer verklighetsnära modeller, medan man inom vetenskap ofta använder förenklade och idealiserade modeller av verkligheten, som möjliggör att man kan dra allmängiltiga slutsatser och identifiera enkla samband mellan parametrar och variabler.
+
+Således har ingenjörskonst ett kortare perspektiv än tillämpad vetenskap, som har ett kortare perspektiv än grundforskning.
+
+Vetenskapsteori
+
+John Locke lade grunden för empiri, en grundläggande del av vetenskapsteorin.
+Detta avsnitt är en sammanfattning av Vetenskapsteori
+Den vetenskapliga metoden försöker förklara naturliga fenomen på ett reproducerbart sätt, och använda förklaringarna till att göra användbara förutsägelser om framtiden. Detta görs delvis genom att observera naturfenomen, men också genom experimentation som försöker simulera fenomenen i en kontrollerbar miljö. I grund och botten tillåter en vetenskaplig metod mycket kreativ problemlösning, medan den minimerar någon subjektiv bias som användarna kan ha (så kallad konfirmeringsbias).[24]
+
+Grundforskning och tillämpad forskning
+Grundforskning är oberoende forskares förutsättningslösa sökande efter ny kunskap och nya upptäckter. Tillämpad vetenskaplig forskning kan bedrivas av industriforskare såväl som akademiska forskare. Vid tillämpad akademisk forskning kräver forskningsfinansiärer ofta samarbete med specifika avnämare, exempelvis kommersiella företag eller myndigheter, som kan bidra med problemformuleringar och förväntas få användning av forskningen inom relativt kort tidshorisont. Tillämpad teknisk forskning syftar till att leda till kunskap som är användbar vid standardisering, patentansökningar, produktutveckling och införande av ny teknik.
+
+Stor del av vår förståelse av världen, och många av de mest revolutionerande vetenskapliga upptäckterna, härrör från den nyfikenhetsdrivna grundforskningen. Inom en längre tidshorisont leder denna forskning inte sällan till nya tillämpningar som inte förväntades när forskningen påbörjades. Michael Faraday besvarade frågan "vad är användningsområdet för grundforskning?", med "vad är användningsområdet för ett nyfött barn?".[25] Till exempel verkade forskning om effekten av rött ljus på människans öga inte ha något praktiskt användningsområde; till sist kom dock upptäckten att vårt mörkerseende inte störs av rött ljus, vilket föranledde militärer till att börja använda rött ljus i cockpits på många stridsflygplan.[26]
+
+Experimentation och hypoteser
+Baserat på observationen av ett fenomen, kan vetenskapsmän formulera en modell. Detta är ett försök att förklara fenomenet med en logisk, fysisk eller matematisk representation. När empirisk data hämtats, kan vetenskapsmän föreslå en hypotes för att beskriva fenomenet. Hypoteser kan formuleras med hjälp av principer som Ochams rakkniv, och formuleras för att passa väl ihop med redan accepterade kunskaper om fenomenet. Den nya hypotesen används för att skapa falsifierbara förutsägelser som kan kontrolleras mot resultatet av experiment eller observation av naturligt förekommande fenomen. När en hypotes visar sig inte stämma överens med experiment eller observationer, blir den antingen omarbetad eller förkastas helt och hållet.
+
+När en hypotes klarat falsifierbara tester, kan den börja klassas som en vetenskaplig teori. Detta är en logiskt förståndig, självstående modell för att beskriva beteendet hos det naturliga fenomenet. En teori innefattar typiskt ett betydligt större antal ämnen än hypoteser; vanligtvis förs ett stort antal hypoteser samman till en enda teori. En teori är alltså en hypotes med syftet att beskriva flertalet andra hypoteser. Av den anledning formuleras teorier med samma principer som hypoteser.
+
+
+För att undvika att enstaka forskare gör misstag granskas vetenskapliga resultat av oberoende forskare, någonting som kallas refereegranskning.
+Medan experiment utförs, kan vetenskapsmän ha ett föredraget resultat av olika personliga anledningar, och det anses därför viktigt att vetenskapen som helhet kan motverka denna bias.[27][28] Denna bias kan kringgås genom noggrant utvecklade experiment, transparens, och en noggrann refereegranskningsprocess av experimentella resultat och slutsatser.[29][30] Efter att resultaten av ett experiment har meddelats eller publicerats, är det vanligt att andra, oberoende forskare dubbelkollar hur forskningen gjordes, och gör liknande experiment för att se om resultaten är reproducerbara.[31]
+
+Enligt Karl Popper är ett kriterium för vetenskapliga teorier är att de skall vara falsifierbara,[32] med andra ord att de ska ge förklaringar och göra förutsägelser som kan prövas, samt att teorin är formulerad så specifikt att den kan motbevisas om den är felaktig.
+
+
+Säkerhet och vetenskap
+En vetenskaplig teori är empirisk, och alltid öppen för falsifiering om nya bevis läggs fram. Därför presenteras aldrig en vetenskaplig teori som helt säker, eftersom vetenskap accepterar konceptet fallibilism. Vetenskapsfilosofen Karl Popper gör en skarp gräns mellan sanning och säkerhet - han skriver att vetenskaplig kunskap "innehåller sökandet efter sanning", men att det "inte är sökandet efter säkerhet ... All mänsklig kunskap är fallibel, och därför osäker."[33]
+
+
+Trots att vetenskap uppmuntrar tveksamhet, är The Flat Earth Society, som argumenterar för att jorden är platt, ett exempel på att ta skepticism för långt.
+Nya teorier resulterar mycket sällan i stora förändringar i vårt tankesätt. Enligt psykologen Keith Stanovich, är det förmodligen medias överanvändande av ordet "genombrott" som leder till att allmänheten tror att vetenskapen ständigt motbevisar vad som en gång antogs för sanning.[34] Medan det finns sådana exempel, som Albert Einsteins relativitetsteori, som kräver total omorganisation i vetenskapen, sker detta mycket sällan. Kunskap nås av att gradvis binda samman resultat från mängder av experiment, av många forskare, över olika områden i vetenskapen; det är mer av en klättring än ett hopp.[35] Teorier varierar i vilken grad de testats och experimenterats, samt i vilken grad de accepteras i det vetenskapliga samhället. Exempelvis heliocentrisk teori och evolutionsteori bär fortfarande namnet "teori" trots att de i praktiken anses vara fakta inom vetenskapen.[36] Filosofen Barry Stroud lägger till att, medan konceptet "kunskap" är tvetydigt, så är det kompatibelt med att vara korrekt att även vara skeptisk, och förstå att man kan ha fel. Ironiskt nog innebär detta att en vetenskapsman som håller sig fast vid en perfekt vetenskaplig metod, också ifrågasätter sig själv när vederbörande faktiskt har rätt.[37]
+
+Stanovich påpekar också att vetenskapsmän undviker att söka efter en enda magisk sak som orsakar ett fenomen. Detta är speciellt fallet i de mer makroskopiska vetenskapsdisciplinerna, som psykologi och kosmologi.[38] Självklart undersöks oftast bara ett fåtal element i taget, men med tiden går dessa samman till en lång lista med element att överväga.[38] Exempelvis: varken att veta enbart detaljerna av en persons genetik, deras bakgrund och uppväxt, eller deras nuvarande situation är tillräckligt för att förstå deras beteende, men en djup förståelse av allt detta tillsammans kan hjälpa att förstå beteendet.
+
+Den vetenskapliga gemenskapen
+
+Amerikanska elever genomför ett vetenskapligt kemiexperiment.
+Den vetenskapliga gemenskapen är världens alla vetenskapsmän, deras aktiviteter och samband. Den delas ofta in i underkategorier av människor som arbetar i sina egna områden av vetenskapen, av vilka det finns otaliga, exempelvis fysik, biologi, ekonomi och psykologi.
+
+Områden
+Vetenskapens områden är allmänt accepterade kategorier av specialiserad expertis, och de använder ofta en egen typ av terminologi och nomenklatur. Dessa områden representeras ofta av en eller flera vetenskapliga tidskrifter, där refereegranskad forskning publiceras.
+
+
+Den svenska Kungliga Vetenskapsakademien är en av många vetenskapsakademier runtom i världen - institutioner för att främja vetenskapen.
+Institutioner
+Akademier, sällskap skapade för att kommunicera och sprida vetenskaplig tanke och experiment, har existerat sedan renässansen.[39] Den äldsta nu levande institutionen är Accademia dei Lincei i Italien.[40] I många länder finns nationella vetenskapsakademier till för att främja vetenskapen, av vilka de första var brittiska Royal Society, som grundades 1660,[41] och franska Académie des Sciences, som grundades 1666.[42]
+
+Internationella vetenskapsorganisationer, som International Council for Science, har sedan dess formats för att stödja samarbete mellan olika länders vetenskapsgemenskaper. På än senare tid har flera myndighetsgrupper skapats för att stödja forskning, exempelvis den amerikanska National Science Foundation. Andra organisationer inkluderar den argentinska National Scientific and Technical Research Council, Australiens Commonwealth Scientific and Industrial Research Organisation, Centre national de la recherche scientifique i Frankrike, Max Planck-sällskapet och Deutsche Forschungsgemeinschaft i Tyskland, och Spanish National Research Council i Spanien.
+
+Detta gäller även teknologi, som omfattar många ingenjörsvetenskapliga discipliner av yngre datum, där den svenska Kungliga Ingenjörsvetenskapsakademien är den äldsta nationella akademin, bildad 1919. Den internationella gemenskapen här står International Council of Academies of Engineering and Technological Sciences för.[43] Den grundades 1978 av de nationella akademierna i Australien, UK, Mexiko, USA och Sverige och har per 2007, fler än 25 medlemmar.[44]
+
+Litteratur
+Huvudartikel: Vetenskapslitteratur
+Vetenskaplig publicering
+Huvudartikel: Vetenskaplig publicering
+En enorm mängd av vetenskapslitteratur har publicerats.[45] Vetenskapliga tidskrifter meddelar och dokumenterar resultat av experiment och undersökningar som gjorts i universitet och vetenskapliga institutioner, och fungerar som en typ av arkivering av vetenskap. De första vetenskapliga tidskrifterna, Journal des Sçavans följt av Philosophical Transactions, började publiceras 1665. Sedan dess har mängden tidskrifter stadigt ökat. 1981 beräknades antalet vara uppe i 11 500,[46] och idag listar Pubmed 40 000 tidskrifter, endast relaterade till medicin.[47] De flesta vetenskapliga tidskrifterna täcker ett enstaka vetenskapligt område, och publicerar forskning inom det fältet. Ett exempel på detta är Intelligence, som är inriktad på psykologi, och Chemical Reviews, som är inriktad på kemi. När färre tidskrifter fanns var det vanligare att de inte hade ett specifikt område utan täckte antingen hela vetenskapen, eller ett stort område som naturvetenskap eller samhällsvetenskap. Ett fåtal av denna typ finns kvar än, exempelvis Nature och Science. För att publiceras inom de flesta större tidskrifterna krävs först en genomgång av refereegranskning.[48][49]
+
+Populärvetenskap
+Huvudartikel: Populärvetenskap
+Populärvetenskapliga tidskrifter som Scientific American, Illustrerad Vetenskap, Allt om Vetenskap och Forskning & Framsteg är ämnade åt en mycket bredare läsarkrets än vetenskapliga tidskrifter, och erbjuder en mindre teknisk sammanfattning av populära forskningsområden, inklusive större upptäckter och framsteg. Vetenskapsböcker är ofta populärvetenskapliga till naturen, och utvecklar vidare på antingen ett specifikt ämne eller en gren av vetenskap genom boken, på ett lättillgängligt sätt.
+
+Science fictiongenren av film och litteratur är inte alltid vetenskapligt korrekt, utan innehåller ofta berättelser som anspelar på moderna och små områden av vetenskap idag, ofta i en fiktiv framtid där författaren kan hitta på en eventuell framtid.
+
+Kvinnor och vetenskap
+Huvudartikel: Kvinnor i vetenskapen
+
+Andelen kvinnor inom vetenskapen stiger stadigt, men är fortfarande låg.
+Vetenskap är generellt ett mansdominerat fält, och en relativt liten andel forskare i världen är kvinnor. Den exakta andelen växlar enormt mellan olika länder och världsdelar, från Asien där i genomsnitt 18 % av alla forskare är kvinnor, till Sydamerika där andelen kvinnor uppnår 45 %. Medan vissa länder har fler kvinnliga än manliga forskare, finns ingen sådan världsdel eftersom variationen är så stor mellan de olika länderna.[50][51] Tekniska områden är speciellt mansdominerade, och åtminstone förr var även naturvetenskapliga områden det, medan kvinnor betydligt oftare söker sig till samhällsvetenskapliga ämnen som psykologi, där de i flera länder är dominerande.[52] Inom samhällsvetenskapliga ämnen har andelen kvinnor och män kommit allt närmare varandra, och även inom naturvetenskapen stiger andelen stadigt.[52]
+
+Undersökningar tyder på att den låga andelen kvinnor till stor del beror på stereotyper hos både föräldrar och barn (många ser vetenskap som "manligt") samt självuppfyllande profetior.[53][54] Experiment har visat att föräldrar utmanar och förklarar mer för pojkar än för flickor, vilket får dem att reflektera djupare och mer logiskt,[55] en grundläggande egenskap för att arbeta inom vetenskap. National Academy of Sciences spekulerar i en avhandling[56] från 2006 att den låga andelen kvinnor till stor del kan bero på att många har synsättet att kvinnor inte har samma potential som män,[57] samt att vetenskapsgemenskapen är designad efter män och att den därför är svår att ta emot för kvinnor.[58]
+
+Flera vetenskapsmän, som fysikern Evelyn Fox Keller, argumenterar för att vetenskapen kan lida för sin mansdominans, eftersom den ego och konkurrens som byggs upp hindrar framsteg då det gör vetenskapsmännen mer ovilliga att delge information.[59] På senare tid har allt fler myndigheter och vetenskapsinstitutioner fokuserat på att försöka få fler flickor och kvinnor att studera vetenskap, exempelvis genom speciella stipendium och studentföreningar.[60]
+
+Länge förbjöds kvinnor från att undervisa eller forska, men detta har minskat under senare tid, allra mest under 1900-talet, och öppen diskriminering mot kvinnor inom vetenskapliga institutioner är nu minimerad.[61] Jämfört med män studerar kvinnor oftare kemi, biologi, humaniora och psykologi,[50] och de studerar mer sällan ämnen som matematik, informationsteknik och fysik.[62] Andelen kvinnor inom de flesta vetenskapliga fält stiger dock stadigt, trots att andelen kvinnor är betydligt lägre än andelen män - detta gäller både inom fakultetspositioner, forskare och studenter.[50][56]
+
+Pseudovetenskap och skräpvetenskap
+Huvudartiklar: Pseudovetenskap och Skräpvetenskap
+Ett område av studie eller spekulation som påstås vara vetenskap i försök att ge legitimitet det annars inte skulle kunna få, kallas ibland för pseudovetenskap.[63] Exempel på pseudovetenskaper inom naturvetenskapen är bland andra astrologi,[64]akupunktur[65][66] och homeopati,[67] medan exempel på samhällsvetenskapliga pseudovetenskaper inkluderar bland annat parapsykologi[68] och socialdarwinism[69]
+
+En annan term, skräpvetenskap, avses dåligt utförd vetenskap som utförs utan strikt metodologi, till exempel med brist på falsifierbarhet. Skräpvetenskap används också som en nedsättande beteckning på forskning som drivs av att söka nå ett på förhand uppsatt resultat, som implicerar att forskaren har en egen agenda, exempelvis ideologisk eller politisk, som färgar experiment, metoder och tolkning av resultat, vilka därmed inte blir reproducerbara. Skräpvetenskap avser ofta omedvetna misstag som görs på grund av slarv eller bias, men kan även vara en medveten strävan efter ett i förväg satt mål, som att medvetet missrepresentera forskningen för att visa att exempelvis rökning är nyttigt.[70] Det finns dock, till skillnad från fallet med pseudovetenskap, ingen vedertagen definition på vad som är skräpvetenskap, och termen används mest i politiska syften; motsatsen sägs då vara "sund vetenskap". En polemisk position till skräpvetenskapen är scientismen, vilken används som kritik mot en överdriven tro på vetenskapen.
+
+Fysikern Richard Feynman skapade termen "cargo cult science" för att beskriva forskning som kan tyckas följa vetenskaplig process, men som saknar "en vetenskaplig tankegång som korresponderar med en typ av komplett ärlighet" vilket tillåter resultaten att vara rigoröst värderade.[71]
+
+Kritik
+
+Vissa kritiker menar att vetenskapen lett till teknik vi skulle klara oss bättre utan, som kärnvapen.
+Kritiska synpunkter är att för mycket pengar läggs på vetenskap istället för exempelvis kultur och konst, medan andra argumenterar att vetenskapen bidragit med teknologiska framsteg som mänskligheten skulle klara sig bättre utan, som massförstörelsevapen.[72] Andra kritiker hävdar att modern vetenskap är centrerad kring västvärlden, och hyllar vad som är en vetenskapstilltro lika fanatisk som vilken religiös tro som helst.[73] Både den vetenskapliga metoden, vetenskapliga institutioner, och enskilda vetenskapsmän har kritiserats för att gå emot feminism, övernaturliga fenomen och religion.[72]
+
+Filosofisk kritik
+Historikern Jacques Barzun kallade vetenskap "en tro lika fanatisk som någon i historien", och varnade för användandet av vetenskaplig tankegång.[73] Många moderna tänkare, som Carolyn Merchant, Theodor Adorno och E. F. Schumacher anser att 1600-talets vetenskapliga revolution skiftade vetenskapens fokus från att förstå naturen, till att manipulera den, och att denna fokus inte kan leda någon annanstans än till manipulation av människor.[74] Vetenskapens fokus på kvantitativa mätningar har lett till att kritiker påstår att det gör det omöjligt att känna igen viktiga, kvalitativa aspekter av världen.[74]
+
+Vetenskapsfilosofen Paul Feyerabend har fört fram idén att det inte finns några undantagslösa metodologiska regler att använda till vetenskaplig forskning, och att idén att vetenskapen skulle kunna arbeta efter universella, fasta regler är orealistisk och motsägelsefull.[75] Feyeraband anser att vetenskap ska ses som en ideologi liksom religion, magi och mytologi, och han anser att vetenskapens dominansroll i samhället är auktoritär och omotiverad.[75]
+
+Många filosofer har fört fram att den vardagliga ställningen till vetenskapen är allt för auktoritär, och att en vetenskapsmans roll i samhället har lyfts upp som en sektledare, omöjlig att ifrågasätta.[76] Denna syn på modern vetenskap har skapat den nedlåtande termen scientism (från engelskans scientist, vetenskapsman), men det är även värt att notera att den som är emot scientism inte nödvändigtvis är emot vetenskap, utan enbart den vanliga synen på vetenskap som auktoritär.[76]
+
+Religiös kritik
+Se även: Kreationism och Intelligent design
+Religiösa grupper har kritiserat vetenskapsmän under lång tid - det mest kända exemplet är antagligen då den katolska kyrkan satte astronomen Galileo Galilei i husarrest 1633, efter att han påstått att jorden kretsar kring solen, vilket kyrkan ansåg gick emot deras tro.[77] I modern tid är den främsta religiösa kritiken mot vetenskap kritik mot ämnen som evolutionslära, geologi, och naturalism.
+
+Bokstavstroende kristna började konfrontera Charles Darwin direkt sedan hans bok Om arternas uppkomst, som introducerade evolutionsläran, släpptes 1859.[78] Enligt evolutionen har människan, liksom alla andra djur på jorden, utvecklats från samma grund under miljarder år, medan Bibeln, om tolkad bokstavligt, säger att arterna uppkom på sex dagar.[78][79] Tron att arterna uppkom som de ser ut idag, skapade av Gud, kallas kreationism, och dess förespråkare har sedan evolutionsläran blivit allmänt accepterad gjort flera försök att införa kreationism i allmänna skolor, speciellt i USA men även i Europa.[78] Under slutet av 1900-talet uppkom även termen intelligent design (förkortat ID) för att beskriva uppfattningen att livet på jorden inte tillkommit enbart genom blind evolution utan att det finns en "intelligent designer" bakom naturlagarnas utformning såväl som livets uppkomst och vissa av dess utvecklingssteg. Till skillnad från kreationismen arbetar inte ID med antagandet att det skulle ha varit en specifik gud som skapat livet, och vissa ID-förespråkare accepterar tanken på gemensamt ursprung. Trots detta har många försvarare av evolutionsteorin ansett intelligent design vara en pseudovetenskap, direkt kopplad till kreationismen.[80][81][82][83] Kritiken mot evolutionsteorin består av flera element, exempelvis idén att det ska finnas irreducibel komplexitet[84] och att det ska finnas väsentliga hål i den fossila databasen som ifrågasätter dess legitimitet. Dessa argument anses av många evolutionsbiologer ha motbevisats,[78][85] och evolutionsteorin anses av den vetenskapliga gemenskapen vara en mycket väletablerad vetenskaplig teori.[86][87]
+
+Se även
+Demarkationsproblemet
+Forskning
+Källkritik
+Marginalvetenskap
+Protovetenskap
+Pseudovetenskap
+Tvärvetenskap
+Vetenskapsteori
+Vetenskaplig metod
+Vetenskaplig skepticism
+Referenser
+^ Dickerson R E Journal of Molecular Evolution 34:277-279
+^ Högnäs S Idéernas historia. En översikt 2003 sid 17f
+^ Hoskin, Michael (2001). Tombs, Temples and their Orientations: a New Perspective on Mediterranean Prehistory. Bognor Regis, UK: Ocarina Books. ISBN 0-9540867-1-6
+^ Ruggles, Clive (1999). Astronomy in Prehistoric Britain and Ireland. New Haven: Yale University Press. ISBN 0-300-07814-5
+^ [[1] The Odyssey]. Oxford University Press. 1998. sid. 40. ISBN 0-1928-3375-8. ”In Egypt, more than in other lands, the bounteous earth yields a wealth of drugs, healthful and baneful side by side; and every man there is a physician; the rest of the world has no such skill, for these are all of the family of Paeon.”
+^ Newth, Eirik. Jakten på sanningen: Vetenskapens historia. Rabén och Sjögren. ISBN 91-29-64004-0
+^ Se exempelvis Isaac Newtons Philosophiæ Naturalis Principia Mathematica (1687), en av de första vetenskapliga skrifterna.
+^ Andrew Janiak (13 oktober 2006). ”Newton's Philosophy”. Stanford Encyclopedia of Philosophy. Läst 21 juli 2011. ”Fully understanding Newton means avoiding anachronistically substituting our conception of philosophy in the twenty-first century for what the early moderns called 'natural philosophy'. To be sure, the latter includes much that we now call 'science', and yet it clearly includes much else besides...Newton may have provided physics with its paradigm...Newton's scientific achievement was in part to have vanquished both Cartesian and Leibnizian physics; in the eighteenth century, and indeed much of the nineteenth, physics was largely a Newtonian enterprise.”
+^ [a b] ”The Age of Enlightenment: The European Dream Of Progress And Enlightenment”. International World History Project. Läst 26 juli 2011. ”The Enlightenment also pioneered in applying scientific methods to the study of human society, sketching the modern social sciences. The basic idea here was that rational laws could describe social as well as physical behavior, and that knowledge could be used to improve policy.”
+^ [a b c] Thurs, Daniel Patrick (2007). Science Talk: Changing Notions of Science in American Popular Culture. New Brunswick, NJ: Rutgers University Press. sid. 22:55. ISBN 978-0813540733. OCLC 170031241
+^ Ross, S. (2 april 1962). ”Scientist: The story of a word” (PDF). Annals of Science "18" (2): ss. 65–85. doi:10.1080/00033796200202722. Läst 8 februari 2008.
+^ Singularity Institute for Artificial Intelligence (2002), Why Artificial Intelligence? Archive copy at the Internet Archive
+^ Kurzweil, Raymond (2001), Lifeboat Foundation, The Law of Accelerating Returns, retrieved on 7 August 2007
+^ Nationalencyklopedin multimedia plus, 2000 (uppslagsord vetenskap)
+^ [a b] ”science”. Online Etymology Dictionary. Läst 11 augusti 2011. ”science: c.1300, "knowledge (of something) acquired by study," also "a particular branch of knowledge," from O.Fr. science, from L. scientia "knowledge," from sciens (gen. scientis), prp. of scire "to know," probably originally "to separate one thing from another, to distinguish," related to scindere "to cut, divide," from PIE base *skei- (cf. Gk. skhizein "to split, rend, cleave," Goth. skaidan, O.E. sceadan "to divide, separate;" see shed (v.)).”
+^ [a b] ”Vad är vetenskap: Är matematik "vetenskap"”. Vetenskapsteori.se. Läst 11 augusti 2011. ”Det diskuteras ibland om matematik är en del av vetenskapen, eftersom matematik inte handlar om empirisk metodik.”
+^ ”Angående indelningen av vetenskapsområden” (Noia 64 mimetypes pdf.png PDF). Universitetskanslersämbetet. Läst 11 augusti 2011. ”Denna skulle fortsättningsvis ske till fyra vetenskapsområden: medicinskt, humanistisk-samhällsvetenskapligt, naturvetenskapligt och tekniskt.”
+^ Murray Gell-Mann, "Kvarken och Jaguaren ", 1995.
+^ Feynman, Leighton, Sands. "The Feynman Lectures On Physics", California Institute of Technology, 1964.
+^ Mohammed Julfekar Haider. ”Difference between Natural Science and Social Science”. India Study Channel. Läst 26 juli 2011.
+^ [a b c] ”Is mathematics a science?”. Trent University's Department of Mathematics. Läst 11 augusti 2011. ”Mathematics is not a science, but there are grey areas at the fringes.”
+^ ”Graduate Education for Computational Science and Engineering”. SIAM Working Group on CSE Education. Läst 21 juli 2011.
+^ Bunge, Mario Augusto (1998). Philosophy of Science: From Problem to Theory. Transaction Publishers. sid. 24. ISBN 0-765-80413-1
+^ Backer, Patricia Ryaby (29 oktober 2004). ”What is the scientific method?”. San Jose State University. Arkiverad från originalet den 8 april 2008. Läst 28 mars 2008.
+^ ”Articles: odds and ends”. Richarddawkins.net.
+^ Stanovich, 2007, sidorna 106–110
+^ van Gelder, Tim (1999). ”"Heads I win, tails you lose": A Foray Into the Psychology of Philosophy” (PDF). University of Melbourne. Arkiverad från originalet den 9 april 2008. Läst 28 mars 2008.
+^ Pease, Craig (6 september 2006). ”Chapter 23. Deliberate bias: Conflict creates bad science”. Science for Business, Law and Journalism. Vermont Law School. Arkiverad från originalet den 19 juni 2010. Läst 28 mars 2008.
+^ Shatz, David (2004). Peer Review: A Critical Inquiry. Rowman & Littlefield. ISBN 074251434X. OCLC 54989960
+^ Krimsky, Sheldon (2003). Science in the Private Interest: Has the Lure of Profits Corrupted the Virtue of Biomedical Research. Rowman & Littlefield. ISBN 074251479X. OCLC 185926306
+^ Bulger, Ruth Ellen; Heitman, Elizabeth; Reiser, Stanley Joel (2002). The Ethical Dimensions of the Biological and Health Sciences (2nd). Cambridge University Press. ISBN 0521008867. OCLC 47791316
+^ Popper, Karl (2005). The Logic of Scientific Discovery (Taylor & Francis e-Library ed.). London and New York: Routledge / Taylor & Francis e-Library. p. 17. ISBN 0203994620. "The criterion of demarcation inherent in inductive logic—that is, the positivistic dogma of meaning—is equivalent to the requirement that all the statements of empirical science (or all 'meaningful' statements) must be capable of being finally decided, with respect to their truth and falsity; we shall say that they must be 'conclusively decidable'. This means that their form must be such that to verify them and to falsify them must both be logically possible."
+^ Popper, KR. In search of a better world, Routledge, 1996, sidan 4.
+^ Stanovich 2007 pg 119–138
+^ Stanovich 2007 sidan 123
+^ Dawkins, Richard (2 september 2005). ”One side can be wrong”. The Guardian (London).
+^ ”Barry Stroud on Scepticism”. Philosophybites.com.
+^ [a b] Stanovich 2007 pp 141–147
+^ Parrott, Jim (9 augusti 2007). ”Chronicle for Societies Founded from 1323 to 1599”. Scholarly Societies Project. Läst 11 september 2007.
+^ ”Benvenuto nel sito dell'Accademia Nazionale dei Lincei” (på italienska). Accademia Nazionale dei Lincei. 2006. Läst 11 september 2007.
+^ ”Brief history of the Society”. The Royal Society. Läst 11 september 2007.
+^ Meynell, G.G.. ”The French Academy of Sciences, 1666–91: A reassessment of the French Académie royale des sciences under Colbert (1666–83) and Louvois (1683–91)”. Topics in Scientific & Medical History. Arkiverad från originalet den 30 september 2007. Läst 11 september 2007.
+^ ”International Council of Academies of Engineering and Technological Sciences. Inc”. International Council of Academies of Engineering and Technological Sciences. Läst 13 februari 2013.
+^ ”Membership”. International Council of Academies of Engineering and Technological Sciences. Läst 13 februari 2013.
+^ Ziman, Bhadriraju (2 april 1980). ”The proliferation of scientific literature: a natural process”. Science "208" (4442): ss. 369–371. doi:10.1126/science.7367863. PMID 7367863.
+^ Subramanyam, Krishna; Subramanyam, Bhadriraju (1981). Scientific and Technical Information Resources. CRC Press. ISBN 0824782976. OCLC 232950234
+^ ”Journals”. Pubmed. Läst 25 juli 2011.
+^ ”How Scientific Peer Review Works”. HowStuffWorks Science. Läst 26 juli 2011.
+^ ”Peer review”. Sense about Science. Arkiverad från originalet den 11 maj 2016. Läst 26 juli 2011.
+^ [a b c] ”Women in Science”. UNESCO Institute for Statistics. Arkiverad från originalet den 3 november 2011. Läst 27 juli 2011.
+^ Det bör noteras att UNESCOS statistik ej är fullständig, utan bara har samlat in data från ungefär hälften av världens länder. Trots detta är UNESCOs källa den bästa som finns att nå. Se förstahandskällan för mer information.
+^ [a b] ”Women, Minorities and Persons with Disabilities in Science and Engineering 2002”. National Science Foundation. Arkiverad från originalet den 2 februari 2013. Läst 27 juli 2011.
+^ Summers, L. H. (2005). Remarks at NBER Conference on Diversifying the Science & Engineering Workforce. The office of the President. Harvard University.
+^ Nosek, B.A., et al. (2009). National differences in gender–science stereotypes predict national sex differences in science and math achievement. PNAS, June 30, 2009, 106, 10593–10597.
+^ Crowley, K. Callanan, M.A., Tenenbaum, H. R., & Allen, E. (2001). Parents explain more often to boys than to girls during shared scientific thinking. Psychological Science, 258–261.
+^ [a b] (på Engelska) (Noia 64 mimetypes pdf.png PDF) To Recruit and Advance: Women Students and Faculty in Science and Engineering. National Academy of Sciences. ISBN 0-309-54715-6. Läst 26 juli 2011
+^ (på Engelska) (PDF) To Recruit and Advance: Women Students and Faculty in Science and Engineering. National Academy of Sciences. sid. 122. ISBN 0-309-54715-6. Läst 26 juli 2011. ”Women continue to achieve positions of leadership in the major research universities. Although their numbers remain lower than at other types of higher education institutions, the potential female pool for such positions is increasing. Women may face greater resistance either in being considered for leadership roles or in occupying those positions. Evaluators may be biased against women to varying degrees and for a variety of reasons, including the view that women lack the necessary skills. Universities and other organizations have taken steps to help remedy these problems.”
+^ (på Engelska) (PDF) To Recruit and Advance: Women Students and Faculty in Science and Engineering. National Academy of Sciences. sid. 126. ISBN 0-309-54715-6. Läst 26 juli 2011. ”Departmental cultures are more of an obstacle for women than for men. Universities often lack female-friendly policies.”
+^ Reflections on Gender and Science. Yale University Press, 1985.
+^ ”National Policies on Women and Science in Europe” (Noia 64 mimetypes pdf.png PDF). Community Research and Development Information Service. Läst 28 juli 2011.
+^ ”Why Men Dominate Math and Science Fields”. Live Science. Läst 26 juli 2011.
+^ (på Engelska) (PDF) To Recruit and Advance: Women Students and Faculty in Science and Engineering. National Academy of Sciences. sid. 126. ISBN 0-309-54715-6. Läst 26 juli 2011. ”Female students are less likely to take higher levels of mathematics prior to enrolling in college and are more likely to concentrate on the biological sciences or chemistry.”
+^ "Pseudoscientific - pretending to be scientific, falsely represented as being scientific", från Oxford American Dictionary, publicerat av Oxford English Dictionary; Hansson, Sven Ove (1996).”Defining Pseudoscience”, Philosophia Naturalis, 33: 169–176, liksom referenserat i "Science and Pseudo-science" (2008) i Stanford Encyclopedia of Philosophy. Stanfordartikeln säger: "Many writers on pseudoscience have emphasized that pseudoscience is non-science posing as science. The foremost modern classic on the subject (Gardner 1957) bears the title Fads and Fallacies in the Name of Science. According to Brian Baigrie (1988, 438), “[w]hat is objectionable about these beliefs is that they masquerade as genuinely scientific ones.” These and many other authors assume that to be pseudoscientific, an activity or a teaching has to satisfy the following two criteria (Hansson 1996): (1) it is not scientific, and (2) its major proponents try to create the impression that it is scientific".
+En rapport av National Science Foundation från 2006 citerade Michael Shermers definition av pseudovetenskap från 1997 års Why People Believe Weird Things: '"claims presented so that they appear [to be] scientific even though they lack supporting evidence and plausibility" (p. 33). In contrast, science is "a set of methods designed to describe and interpret observed and inferred phenomena, past or present, and aimed at building a testable body of knowledge open to rejection or confirmation"(p. 17)'.Shermer M. (1997). Why People Believe Weird Things: Pseudoscience, Superstition, and Other Confusions of Our Time. New York: W. H. Freeman and Company. ISBN 0716730901 as cited by National Science Board. National Science Foundation, Division of Science Resources Statistics (2006). ”Science and Technology: Public Attitudes and Understanding”. Science and engineering indicators 2006
+"A pretended or spurious science; a collection of related beliefs about the world mistakenly regarded as being based on scientific method or as having the status that scientific truths now have," från Oxford English Dictionary, andra utgåvan 1989.
+^ ”Astrologi håller inte för vetenskaplig prövning”. - VOF.se
+^ Clin Med 2006: Systematic review of systematic reviews of acupuncture published 1996-2005 Arkiverad 15 augusti 2010 hämtat från the Wayback Machine.
+^ Brian M. Berman, M.D., Helene M. Langevin, M.D., Claudia M. Witt, M.D., M.B.A., och Ronald Dubner, D.D.S., Ph.D.. ”Acupuncture for Chronic Low Back Pain”. The New England Journal of Medicine. Läst 26 juli 2011.
+^ Mahlon W. Wagner, Ph.D.. ”Is Homeopathy "New Science" or "New Age"?”. Homeowatch. Läst 26 juli 2011. ”It must be concluded that by every objective, rational, and medical standard, homeopathy has failed to establish its scientific credibility. Homeopathy has not cast off the many characteristics of pseudoscience and quackery.”
+^ ”Controlled, Repeatable Experiments: Why Parapsychology is a Pseudoscience, Not a Science”. About.com: Agnosticism / Atheism. Läst 26 juli 2011.
+^ Lars Johan Erkell (2011). Sven Ove Hansson (ansvarig utgivare), Jesper Jerkert, Peter Olausson, Martin Rundkvist, Aija Sadurskis, Dan Tilert. red. ”Darwin och socialdarwinismen” (på svenska). Folkvett (Stockholm: Vetenskap och Folkbildning) 2011:1: sid. 6-22. ISSN 0283-0795.
+^ ”Coping with fraud” (PDF). The COPE Report 1999: ss. 11–18. Arkiverad från originalet den 28 september 2007. Läst 21 juli 2011.
+^ Cargo Cult Science av Feyman, Richard. Läst 2011-07-26.
+^ [a b] Okasha, Samir (på engelska). Philosophy of Science: A Very Short Introduction. Oxford University Press. sid. 120-121. ISBN 978-0-19-280283-5
+^ [a b] Barzun, Jacques. ”II, XII” (på engelska). Science: The Glorious Entertainment. Harper and Row. sid. 15. ”Science is a faith as fanatical as any in history.”
+^ [a b] Capra, Fritjof (på engelska). Uncommon Wisdom. sid. 213. ISBN 0-671-47322-0
+^ [a b] Feyerabend, Paul (1993). Against Method. London: Verso. ISBN 9780860916468
+^ [a b] Okasha, Samir (på engelska). Philosophy of Science: A Very Short Introduction. Oxford University Press. sid. 121-123. ISBN 978-0-19-280283-5
+^ David Eliot Brody; Arnold R. Brody. ”Gravitationen och de grundläggande fysiska lagarna”. Upptäckterna som förändrade världen och människorna bakom dem. Månpocket. sid. 57-59. ISBN 91-7643-637-3
+^ [a b c d] Okasha, Samir (på engelska). Philosophy of Science: A Very Short Introduction. Oxford University Press. sid. 125-129. ISBN 978-0-19-280283-5
+^ ”1 Mos. 2:2”. Bibeln. Libris. sid. 2. ISBN 91-7195-503-8. ”Den sjunde dagen hade Gud fullbordat sitt verk, och han vilade på den sjunde dagen efter allt han hade gjort.”
+^ Intelligent Design as creationism, The TalkOrigins Archive
+^ Intelligent Design Is Creationism in a Cheap Tuxedo, Physics Today, Juni 2002 Arkiverad 1 december 2008 hämtat från the Wayback Machine.
+^ Barbara Forrest & Paul R. Gross: Creationism’s Trojan Horse: The Wedge of Intelligent Design, Oxford University Press 2004
+^ Defending science education against intelligent design: a call to action Journal of Clinical Investigation 116:1134-1138 American Society for Clinical Investigation, 2006.
+^ I Michael Behes Darwin’s Black Box (1996) definieras det som ”... a single system composed of several well-matched, interacting parts that contribute to the basic function, wherein the removal of any one of the parts causes the system to effectively stop functioning”.
+^ Pallen MJ, Matzke NJ (2 april 2006). ”From The Origin of Species to the origin of bacterial flagella”. Nat. Rev. Microbiol. "4" (10): ss. 784–90. doi:10.1038/nrmicro1493. PMID 16953248.
+^ Massimo Pigliucci (Juli 2005). ”Evolution’s Importance to Society”. Läst 5 juli 2008.
+^ Theodosius Dobzhansky (Mars 1973). ”Nothing in Biology Makes Sense Except in the Light of Evolution”. Ursprungligen publicerad i The American Biology Teacher. Läst 3 juli 2008.
+Vidare läsning
+Alan Chalmers What is this thing called science?, Open University Press, 1999, ISBN 0-335-20109-1
+Karl Popper The logic of scientific discovery, ISBN 0-415-27844-9
+Samir Okasha Philosophy of science. A very short introduction, 2002
+Godfrey-Smith P Theory and reality, ISBN 0-226-30063-3
+Externa länkar
+Wiktionary small.svg Wiktionary har ett uppslag om vetenskap.
+Sök efter mer information på
+Wikipedias systerprojekt:
+ Commons-logo.svg	Media på Commons?
+Wiktionary small.svg	Ordbok och definitioner på Wiktionary?
+Wikinews-logo.svg	Nyheter på Wikinews?
+Wikisource-logo.svg	Originalverk på Wikisource?
+Wikibooks-logo.svg	Böcker på Wikibooks?
+Wikiquote-logo.svg	Citat på Wikiquote?
+Wikiversity-logo.svg	Kurser på Wikiversity?
+Wikidata-logo.svg	Dataobjekt på Wikidata?
+vetenskapsteori.se. En webbplats om vetenskap och vetenskapsteori.
+Publikationer
+
+"GCSE Science textbook". Wikibooks.org (engelska)
+Nyheter
+
+(engelska) Nature News. Vetenskapsnyheter av tidskriften Nature
+(engelska) New Scientist. En veckotidskrift utgiven av Reed Business Information
+(engelska) ScienceDaily
+(engelska) Science Newsline
+(engelska) Discover Magazine
+(engelska) Irish Science News från Discover Science & Engineering
+(engelska) Science Stage Vetenskaplig videoportal och community
+Resurser
+
+(engelska) Euroscience:
+(engelska) Euroscience Open Forum (ESOF)
+(engelska) Klassificering av vetenskaper i Dictionary of the History of Ideas. (Ordbokens nya elektroniskt format är illa sabbat, poster efter "Design" är otillgängliga. Internetarkiv gammal version).
+(engelska) United States Science Initiative. Utvald vetenskapsinformation från amerikanska myndigheter, inklusive forsknings- och utvecklingsresultat.
+Auktoritetsdata	
+• GND: 4066562-8 • NDL: 00571322
+Kategori: Vetenskap
+Navigeringsmeny
+Inte inloggadDiskussionBidragSkapa kontoLogga inArtikelDiskussionVisaRedigeraRedigera wikitextVisa historikSök
+
+Sök på Wikipedia
+Huvudsida
+Introduktion
+Deltagarportalen
+Bybrunnen
+Senaste ändringarna
+Slumpartikel (−bot)
+Ladda upp filer
+Stöd Wikipedia
+Kontakta Wikipedia
+Hjälp
+Skriv ut/exportera
+Skapa en bok
+Ladda ner som PDF
+Utskriftsvänlig version
+På andra projekt
+Bilder & media
+Ordbok
+Ordbok
+Nyheter
+Originalverk
+Böcker
+Citat
+Kurser
+Databas
+Verktyg
+Sidor som länkar hit
+Relaterade ändringar
+Specialsidor
+Permanent länk
+Sidinformation
+Wikidataobjekt
+Använd denna sida som referens
+
+Språk
+Deutsch
+English
+Español
+Français
+Italiano
+日本語
+Tagalog
+Tiếng Việt
+中文
+191 fler
+Redigera länkar
+Sidan redigerades senast den 2 april 2018 kl. 21.55.
+Wikipedias text är tillgänglig under licensen Creative Commons Erkännande-dela-lika 3.0 Unported. För bilder, se respektive bildsida (klicka på bilden). Se vidare Wikipedia:Upphovsrätt och användarvillkor.
+Wikimedias integritetspolicyOm WikipediaFörbehållUtvecklareInformation om kakorMobil vyWikimedia Foundation Powered by MediaWiki
+

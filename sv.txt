@@ -1,0 +1,151 @@
+
+Filosofi
+Question book-4.svg
+Den här artikeln behöver fler eller bättre källhänvisningar för att kunna verifieras. (2017-07) 
+Åtgärda genom att lägga till pålitliga källor (gärna som fotnoter). Uppgifter utan källhänvisning kan ifrågasättas och tas bort utan det behöver diskuteras på diskussionssidan.
+
+Tänkaren av Auguste Rodin.
+Filosofi, från grekiskans philosophía (φιλοσοφία), "vän till visdom", är en intellektuell disciplin som kritiskt studerar de mest grundläggande frågorna. "Finns det någon verklighet utanför mina tankar?", "Vad är kunskap?", "Vad är sanning?", "Vad gör en handling värdefull?", "Har människor och djur värde och är de i så fall lika eller olika?", "Vad är tid?" är frågor som traditionellt har ställts inom filosofin.
+
+Ordet kan också, i sammansättningar som "en filosofi"/"flera filosofier" syfta på ett sammanhängde tankesystem, en ideologi eller en filosofisk skola.
+
+I det antika Grekland, där västerlandets filosofi uppstod, omfattade filosofi studiet av all dåtida kunskap och vetande, detta har fått många att kalla den för "vetenskapens moder".
+
+Vad som skulle kunna ses som ett problem för filosofin som disciplin är att ett filosofiskt område blir till ett vetenskapligt område när empiriskt underlag blir accepterat inom området. Detta har påpekats av exempelvis Bertrand Russell[1] och Karl Jaspers[2]. Filosofin avlägsnas genom detta gradvis från områden med kopplingar till observationer, vilket är tydligt inom områden som naturvetenskaper och historia.
+
+Filosofin kan grovt indelas i logik, kunskapsteori, metafysik eller ontologi, vetenskapsteori, språkfilosofi, värdeteori, etik, estetik och religionsfilosofi.[3] Logiken behandlar de formella förutsättningarna för att slutledningar ska vara korrekta men uttalar sig inte om världens beskaffenhet. Kunskapsteorin däremot studerar hur vi kan få kunskap om världen. Medan kunskapsteorin behandlar den frågan rent allmänt, och därför också intresserar sig för vardagskunskapen, ägnar sig vetenskapsteorin åt den specialiserade form av kunskapsbildning som sker i vetenskaperna. Metafysiken eller ontologin behandlar våra obevisbara föreställningar om vad för slags ting och fenomen som finns och kan finnas i världen, sådana föreställningar som tillsammans med logiken behövs som en grund för att vi ska kunna skapa oss en konkret uppfattning om hur världen är beskaffad. Värdeteorin behandlar frågan vad värde rent allmänt är, medan etiken undersöker vad som gör handlingar värdefulla, det vill säga varför vi bör handla på vissa sätt och inte på andra, och estetiken vad det innebär att ting och handlingar är upplevelsemässigt värdefulla. Religionsfilosofin behandlar de religiösa föreställningarnas innehåll och struktur men bekänner sig inte till eller från någon religion.
+
+Innehåll
+1	Etymologi
+2	Historia
+3	Delområden
+4	Traditioner
+5	Filosofer
+6	Källor
+7	Vidare läsning
+7.1	Introduktioner
+7.2	Antologier och lexikon
+8	Externa länkar
+Etymologi
+Ordet "filosofi" kommer från grekiskans φιλοσοφία (philosophía), som ordagrant betyder "Kärlek till visdom".
+
+Historia
+
+Platon och Aristoteles i en målning av Rafael.
+Se huvudartikel: Filosofins historia
+Filosofins historia förklarar både hur olika problem och frågeställningar uppstått och hur de besvarats genom historien. Genom denna katalog av frågor och svar är en filosof bättre rustad för att hantera både tidlösa och nya frågeställningar. Historia är därför betydligt viktigare i filosofi än de flesta andra ämnen. Västerländsk filosofihistoria antas börja med försokratikerna. De var de första, i antika Grekland, att ställa frågor om världen utan att blanda in religion i svaren. Platon och Aristoteles ställde redan under antiken de flesta grundläggande frågor filosofin ställer idag. Muslimsk filosofi utvecklar arvet från antikens filosofi. Skolastik var under medeltiden en filosofi som genom komplicerade argument försökte klarlägga frågor om både Gud och världen (se Gudsbevis). Descartes och andra försökte visa att skolastikerna hade fel. Empirismen menade att all kunskap kom från sinnena, medan rationalismen såg förnuftet som källan till all kunskap. I början av 1900-talet menar en del av analytisk filosofi, Wienkretsen, att deras filosofi är vetenskaplig. I kontinental filosofi kritiserar man den analytiska filosofin och feministisk filosofi och postmodernism visar att mycket det man tidigare tagit för givet går att ifrågasätta. Så har under filosofins historia argument brutits mot argument och därigenom givet en skatt av uppslag för att lösa filosofiska problem. Även för ett nytt ämne som bioetik kan det vara meningsfullt att se vad filosofer genom historien skrivit i liknande frågor, vilken betydelse har till exempel Jeremy Benthams skrifter för en given fråga i etik, eller kan Konfucianism eller någon gestalt i indisk filosofi ge ett bidrag?
+
+Delområden
+Filosofin har flera delområden som vart och ett har olika frågor i fokus. På svenska institutioner görs en skillnad mellan praktisk filosofi och teoretisk filosofi[4] förutom de vid Södertörns högskola, Umeå universitet samt Luleå tekniska universitet, som har återgått till en så kallad kombinerad filosofiundervisning. Nedan ges delområdena grupperade enligt dessa två huvudgrupperingar. Uppdelningen mellan teoretisk och praktisk filosofi är inte vanligt förekommande i världen som helhet.
+
+Praktisk filosofi omfattar till exempel:
+
+etik, moralfilosofi som studerar moraliska begrepp som det goda och rättvisa och om dessa bergrepp är universella eller beroende av olika faktorer.
+estetik ägnar sig åt konstens och det skönas väsen och natur.
+politisk filosofi och samhällsfilosofi, studerar fenomen i samhället, olika ideologier och teorier om samhällets uppbyggnad och funktion.
+religionsfilosofi som bland annat studerar gudsbegreppet, möjligheten att bevisa guds existens och religiösa upplevelsers förhållande till vetenskap och vetande.
+värdeteori som studerar värdens natur, vad vi uttrycker med värdeomdömen och huruvida dessa värden är objektiva eller subjektiva, m.m.
+rättsfilosofi
+handlingsteori
+Teoretisk filosofi omfattar till exempel:
+
+kunskapsteori (epistemologi), vetenskapsteori. Sysslar med frågor som "Vad är kunskap?", "Hur får vi kunskap?" och hur vet man att något är sant. Vad är ett riktigt sätt att forska och utföra vetenskapliga undersökningar på?.
+logik, argumentation. Vad är ett riktigt sätt att härleda fakta från andra fakta? Formalism kring hur man tydligt beskriver ett logiskt resonemang.
+språkfilosofi ställer frågor om språkets natur. Vad innebär det att ett ord betyder någonting? Hur förhåller sig språket till medvetandet och till verkligheten?
+matematikfilosofi undersöker de matematiska begreppens natur.
+medvetande-, kognitionsfilosofi undersöker medvetandets, jagets och själens natur.
+filosofins historia De olika filosoferna och deras tänkande.
+metafysik. Övergripande filosofiska teorier kring världens, tillvarons och verklighetens innersta väsen.
+Ett annat sätt att ge filosofin ämnesområden är att utgå från ett särskilt sätt att angripa problem ur en viss synvinkel eller genom att hänvisa till en viss historisk eller geografisk tradition. Feministisk filosofi går att läsa som särskilt ämne på universitet, men det hindrar inte att det också finns feministisk vetenskapsteori. På samma sätt är muslimsk filosofi ett delområde i filosofin på samma gång som filosofins historia ur muslimskt perspektiv är en del av delområdet filosofins historia. En tänkare i indisk tradition som filosoferar om matematik är på samma sätt en del av matematikfilosofi. Bland sådana angreppsätt och traditioner finns:
+
+Afrikansk filosofi
+Buddhistisk filosofi
+Feministisk filosofi
+Indisk filosofi
+Kinesisk filosofi
+Muslimsk filosofi
+Persisk filosofi
+Analytisk filosofi
+Kontinental filosofi
+Marxism
+Thomism
+Traditioner
+Man kan även dela in filosofin efter olika traditioner eller skolbildningar. Olika traditioner har dominerat i olika länder under olika tidsperioder, och de har delvis olika uppfattning om vad filosofi är. En populär indelning under 1900-talet var den mellan analytisk och kontinental filosofi.
+
+Analytisk filosofi har under 1900-talet dominerat i den anglosaxiska världen, samt i Skandinavien. I Sverige idag är de flesta filosofiinstitutioner analytiskt inriktade, med den på Södertörns högskola som främsta undantag. Som namnet antyder har den sin grund i synen att man genom analys av språk och satser kan klargöra filosofiska problem. Analytiska filosofer sätter ett högt värde på klarhet och tydlighet, medan de i mindre grad värdesätter associativt tänkande. Den analytiska filosofin är vidare mer vänd mot naturvetenskaperna och matematiken än mot de övriga humanistiska ämnena. Den har sina främsta rötter hos Bertrand Russell och hans vän G.E. Moore. Den rymmer inom sig olika riktningar, exempelvis Logisk positivism och Vardagsspråksfilosofi.
+Kontinental filosofi är en samlingsbeteckning för ett antal olika riktningar som haft en stark ställning i framför allt Tyskland och Frankrike under 1900-talet. Den framkom främst genom Edmund Husserl men många filosofer ur denna traditionen vill peka på sina rötter hos Friedrich Hegel och Sören Kierkegaard. Några exempel på traditioner inom den kontinentala filosofin är fenomenologi, existentialism och dekonstruktivism. Det skall även nämnas att feministisk filosofi har många av sina filosofiska rötter i denna tradition, framförallt genom Simone de Beauvoir.
+Filosofer
+Se huvudartikel: Filosof
+Källor
+^ Bertrand Russell (1912) "The Problems of Philosophy" kapitel 15: "The Value of Philosophy
+^ Karl Jaspers (1953) "Einführung in die Philosophie", avsnitt 1: Was ist Philosophie
+^ ”Detta är filosofi” (på en). www.philosophy.su.se. Läst 4 april 2017.
+^ ”Praktisk filosofi eller teoretisk filosofi?” (på en). www.philosophy.su.se. Läst 4 april 2017.
+Vidare läsning
+Gaarder, Jostein, Sofies värld (1993), ISBN 91-29-62196-8
+Introduktioner
+Magee, Bryan, Bonniers stora bok om filosofi - från antikens naturfilosofer till dagens moderna tänkare (1998)
+Russell, Bertrand, Den västerländska filosofins historia (1946)
+Russell, Bertrand, Filosofins problem (1912)
+Skirbekk, Gunnar & Gilje, Nils, Filosofins historia (1987)
+Antologier och lexikon
+Marc-Wogau, Konrad, Filosofin genom tiderna
+Filosofilexikonet, översättning av Jan Hartman (1988)
+Externa länkar
+Wikisource-logo.svg Wikisource har originalverk relaterade till Filosofi.
+Wikibooks-logo.svg Kritiskt filosofilexikon på Wikibooks.
+Stanford Encyclopedia of Philosophy (länk)
+v • r
+Filosofiska ämnen
+Socrates blue version2.png	
+Filosofiportalen – portalen för filosofi på svenskspråkiga Wikipedia.
+Auktoritetsdata	
+• LCCN: sh85100849 • GND: 4045791-6 • NDL: 00572945 • NKC: ph114540
+Kategori: Filosofi
+Navigeringsmeny
+Inte inloggadDiskussionBidragSkapa kontoLogga inArtikelDiskussionVisaRedigeraRedigera wikitextVisa historikSök
+
+Sök på Wikipedia
+Huvudsida
+Introduktion
+Deltagarportalen
+Bybrunnen
+Senaste ändringarna
+Slumpartikel (−bot)
+Ladda upp filer
+Stöd Wikipedia
+Kontakta Wikipedia
+Hjälp
+Skriv ut/exportera
+Skapa en bok
+Ladda ner som PDF
+Utskriftsvänlig version
+På andra projekt
+Bilder & media
+Filosofi
+Böcker
+Verktyg
+Sidor som länkar hit
+Relaterade ändringar
+Specialsidor
+Permanent länk
+Sidinformation
+Wikidataobjekt
+Använd denna sida som referens
+
+Språk
+Deutsch
+English
+Español
+Français
+Italiano
+日本語
+Tagalog
+Tiếng Việt
+中文
+190 fler
+Redigera länkar
+Sidan redigerades senast den 18 mars 2018 kl. 19.03.
+Wikipedias text är tillgänglig under licensen Creative Commons Erkännande-dela-lika 3.0 Unported. För bilder, se respektive bildsida (klicka på bilden). Se vidare Wikipedia:Upphovsrätt och användarvillkor.
+Wikimedias integritetspolicyOm WikipediaFörbehållUtvecklareInformation om kakorMobil vyWikimedia Foundation Powered by MediaWiki
+
